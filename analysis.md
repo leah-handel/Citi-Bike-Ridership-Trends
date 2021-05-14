@@ -20,6 +20,7 @@ The map shows the same percent change, calculated by zip code. Again, zip codes 
 Citibike is actually advertising bike routes in parks in this area! Although it's not exactly accurate to imply that they're the most popular!
 
 <img width="878" alt="Screenshot of advertised popular rides" src="https://user-images.githubusercontent.com/74382969/118316694-c19bda00-b4bc-11eb-94cc-09fdb5b08b72.png">
+
 From [Citibike](https://www.citibikenyc.com).
 
 
