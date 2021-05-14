@@ -13,5 +13,5 @@ This repo holds the data cleaning and .twbx files for a tableau workbook visuali
 
 ## Data Sources
 
-* Ride data is published by [Citibike](https://s3.amazonaws.com/tripdata/index.html).
+* Ride data is published by [Citibike](https://s3.amazonaws.com/tripdata/index.html). CSVs are not included here because of their size.
 * Reverse geocoding of zipcodes and boroughs is via [nominatum's API](https://nominatim.org/release-docs/develop/api/Reverse/).
