@@ -6,6 +6,8 @@
 
 This repo holds the data cleaning and .twbx files for a tableau workbook visualizing trends in citibike ridership over the last three years. The visualizations can also be found on [Tableau Public](https://public.tableau.com/profile/leah.handel#!/vizhome/citibikehomework_16203261577640/Story1?publish=yes).
 
+Done for week 20 homework for the Northwestern Data Science and Visualization Bootcamp.
+
 ## Technologies
 
 * Data Cleaning & Geocoding: Python/Pandas in Jupyter Notebook
