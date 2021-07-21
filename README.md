@@ -1,10 +1,10 @@
-# Citibike Ridership Trends
+# Citi Bike Ridership Trends
 
 <img width="619" alt="screenshot of bar graph and heatmap" src="https://user-images.githubusercontent.com/74382969/118317921-4cc99f80-b4be-11eb-848e-fb460c6a08e0.png">
 
 ## General Info
 
-This repo holds the data cleaning and .twbx files for a tableau workbook visualizing trends in citibike ridership over the last three years. The visualizations can also be found on [Tableau Public](https://public.tableau.com/profile/leah.handel#!/vizhome/citibikehomework_16203261577640/Story1?publish=yes).
+This repo holds the data cleaning and .twbx files for a tableau workbook visualizing trends in Citi Bike ridership over the last three years. The visualizations can also be found on [Tableau Public](https://public.tableau.com/profile/leah.handel#!/vizhome/citibikehomework_16203261577640/Story1?publish=yes).
 
 Done for week 20 homework for the Northwestern Data Science and Visualization Bootcamp.
 
